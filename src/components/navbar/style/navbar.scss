@@ -1,0 +1,22 @@
+
+div#navbar{
+ background-color:red;
+ margin: 0%;
+ padding: 0%;
+ position: fixed;
+ top: 0;
+ width: 100%;
+ ul{
+
+     li{
+        list-style-type: none;
+        
+        a{
+            color: white;
+            text-decoration: none;
+        }
+
+
+     }
+ }
+}

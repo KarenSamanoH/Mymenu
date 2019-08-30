@@ -1,0 +1,14 @@
+div#navbar {
+  background-color: red;
+  margin: 0%;
+  padding: 0%;
+  position: fixed;
+  top: 0;
+  width: 100%; }
+  div#navbar ul li {
+    list-style-type: none; }
+    div#navbar ul li a {
+      color: white;
+      text-decoration: none; }
+
+/*# sourceMappingURL=navbar.css.map */

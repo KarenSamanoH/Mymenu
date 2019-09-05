@@ -6,6 +6,7 @@ import './App.css';
 import Navbar from './components/navbar/navbar';
 
 //Css
+import '@fortawesome/fontawesome-free';
 import './components/navbar/style/navbar.css';
 
 

@@ -10,7 +10,10 @@ class Navbar extends React.Component{
              <li className='col-xs-2'><a href="#Snacks">Snacks</a></li>
              <li className='col-xs-2'><a href="#Create">Create</a></li>
              <li className='col-xs-2'><a href="#Desserts">Desserts</a></li>
-             <li className='col-xs-2'><a href="#Drinks">Drinks</a></li>
+             <
+                 
+                 
+                 li className='col-xs-2'><a href="#Drinks">Drinks</a></li>
          </ul>
      </div>
  )

@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Slider from './components/slider/slider'
 
 //Components
 import Navbar from './components/navbar/navbar';
@@ -16,6 +17,7 @@ function App() {
       <header className="App-header">
         <Navbar/>
       </header>
+      <Slider/>
     </div>
   );
 }

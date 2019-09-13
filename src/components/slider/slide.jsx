@@ -1,15 +1,16 @@
-import React from 'react';
 
-const Slide = ({image}) => {
-    const styles = {
+import React from 'react'
 
-        backgroundImage: `url(${image})`,
-        backgroundSize: 'cover',
-        backgroundRepeat: 'no-repeat',
-        backgroundPosition: '50% 60%'
-
+const Slide = ({ image }) => {
+  const styles = {
+    backgroundImage: `url(${image})`,
+    backgroundSize: 'cover',
+    backgroundRepeat: 'no-repeat',
+    backgroundPosition: '50% 60%',
+    height: '100vh',
+    
+  }
+  return <div className="slide" style={styles}></div>
 }
-return <div className="slide" style={sytles}></div>
-}
 
-export default Slide;
+export default Slide
